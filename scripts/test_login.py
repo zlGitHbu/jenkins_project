@@ -10,6 +10,7 @@ class TestLogin:
     def test_b(self, test_c):
         assert 0
         print(212)
+        print(135)
 
     @pytest.fixture()
     def test_c(self):
